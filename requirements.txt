@@ -1,4 +1,3 @@
-json
 docx
 requests
 cloudconvert
